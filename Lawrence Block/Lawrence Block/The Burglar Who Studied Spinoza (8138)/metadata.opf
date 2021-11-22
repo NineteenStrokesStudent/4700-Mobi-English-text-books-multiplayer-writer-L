@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16656ee7-b617-44be-9bc6-1bbada3d11c8</dc:identifier>
+        <dc:title>The Burglar Who Studied Spinoza</dc:title>
+        <dc:creator opf:file-as="Block, Lawrence" opf:role="aut">Lawrence Block</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-06T14:12:20.520000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;In this classic Bernie Rhodenbarr mystery, long out of print, sneaky thief Bernie turns up a 1913 V-nickel that gets his Spinoza-reading fence, Abel, murdered.&lt;br /&gt;
+Copyright 1997 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Bookselling burglar Bernie Rhodenbarr doesn't generally get philosophical about his criminal career. He's good at it, it's addictively exciting—and it pays a whole lot better than pushing old tomes. He steals therefore he is, period. 
+&lt;/p&gt;
+&lt;p&gt;He might well ponder, however, the deeper meaning of events at the luxurious Chelsea brownstone of Herb and Wanda Colcannon, which is apparently burgled &lt;em&gt;three times&lt;/em&gt; on the night Bernie breaks in: once before his visit and once after. Fortunately he still manages to lift some fair jewelry and an extremely valuable coin. Unfortunately burglar or burglars number three leave Herb unconscious and Wanda dead . . . and the cops think Rhodenbarr dunnit. 
+&lt;/p&gt;
+&lt;p&gt;There's no time to get all existential about it—especially after the coin vanishes and the fence fencing it meets with a most severe end. But Bernie &lt;em&gt;is&lt;/em&gt; going to have to do some deep thinking to find a way out of this homicidal conundrum. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060872762</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Bernie Rhodenbarr" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-20T14:04:27.222000+00:00" name="calibre:timestamp"/>
+        <meta content="Burglar Who Studied Spinoza, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

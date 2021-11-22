@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8072</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82f7be5a-38a9-432f-9910-b54464679cc1</dc:identifier>
+        <dc:title>An Education</dc:title>
+        <dc:creator opf:file-as="Barber, Lynn" opf:role="aut">Lynn Barber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-29T07:05:46.499000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;[Barber’s] a suburban girl who’s frightened that she’s going to get cut out of everything good that happens in the city. That, to me, is a big story in popular culture. It’s the story of pretty much every rock ‘n’ roll band. (Nick Hornby, author of the screenplay adaptation of &lt;em&gt;An Education&lt;/em&gt; ) &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;The inspiration for the award-winning motion picture: "Candid, unsentimental and extremely funny. I read it in one glorious go, laughing and crying throughout."—Zoë Heller&lt;/strong&gt; When Lynn Barber was sixteen, a stranger in a maroon sports car pulled up beside her as she was on her way home from school and offered her a ride. It was the beginning of a long journey from innocence to precocious experience—an affair with an older man that would change her life. Barber’s seducer left her with a taste for luxury hotels and posh restaurants and trips abroad, expensive habits that she managed to support in later life as a successful London journalist whose barbed interviews at once terrorized and fascinated her smart-set subjects.   &lt;/p&gt;&lt;p&gt;A poignant, shockingly candid account of the stages in a literary life—from promiscuity at Oxford to a stint at &lt;em&gt;Penthouse&lt;/em&gt; to a complex marriage that endured—_An Education_ is a classic of English memoir. &lt;/p&gt;</dc:description>
+        <dc:publisher>Atlas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781934633854</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-15T07:00:27.459000+00:00" name="calibre:timestamp"/>
+        <meta content="Education, An" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

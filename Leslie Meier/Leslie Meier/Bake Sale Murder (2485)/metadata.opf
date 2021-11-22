@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab762563-fea4-4aff-8e15-b51deaad6769</dc:identifier>
+        <dc:title>Bake Sale Murder</dc:title>
+        <dc:creator opf:file-as="Meier, Leslie" opf:role="aut">Leslie Meier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-27T00:55:48.296000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Ever since local developer Fred Stanton and his wife, Mimi, built five modular homes next door to Lucy Stone's farmhouse, life just hasn't been the same. With Mimi complaining about everything from the state of Lucy's lawn to another neighbor's lovable dog, quaint Tinker's Cove, Maine, is now entangled in cul-de-sac politics and backstabbing. And when Mimi doesn't show up for her shift at The Hat and Mitten Fund bake sale, the scent of burnt sugar leads Lucy to a shocking discovery: Mimi, face down on her kitchen floor--with a knife in her back.  
+
+  While the police start their investigation, Lucy gets busy writing up the murder for the local Pennysaver--and following a few leads of her own. Lucy knows the women in her neighborhood didn't like Mimi, but they certainly didn't want her dead...right?  
+
+    
+
+ "I like Lucy Stone a lot, and so will readers."  --Carolyn Hart  
+
+    
+
+"Leslie Meier writes with sparkle and warmth."  --*Chicago Sun Times*  
+
+    
+
+"Mothers everywhere will identify with Lucy Stone and the domestic problems she encounters."  --*Publishers Weekly*</dc:description>
+        <dc:publisher>Kensington Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780758207029</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Lucy Stone Mysteries" name="calibre:series"/>
+        <meta content="13" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-26T00:53:59.971000+00:00" name="calibre:timestamp"/>
+        <meta content="Bake Sale Murder" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

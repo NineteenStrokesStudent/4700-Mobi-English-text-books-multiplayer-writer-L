@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">290dcc53-2215-4a2e-bf3c-1bae1d130020</dc:identifier>
+        <dc:title>Castle to Castle (French Literature)</dc:title>
+        <dc:creator opf:file-as="Celine, Louis-Ferdinand" opf:role="aut">Louis-Ferdinand Celine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-04-01T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;Published in English seven years after his death (LJ 11/15/68), this is considered one of Celine's darkest novels. It is also autobiographical. Like the author, the novel's central character is a Nazi collaborator who is nonetheless destroyed by them. This translation won a National Book Award.&lt;br /&gt;Copyright 1997 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Castle to Castle [is] a literary event of the first order." -- &lt;em&gt;Newsweek&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"Castle to Castle proves how appallingly up to date its dead appalling author is. . . . Cline's style consists of outcries and exclamations, groans and curses, all in white heat, separated by dots which like machine-gun bullets mow down even the mitigating orderliness of grammar." -- &lt;em&gt;Nation&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"Celine's mastery in creating one of the truly cathartic experiences of contemporary literature is indisputable." -- &lt;em&gt;Saturday Review&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"Cline walks into great literature as other men walk into their own homes." -- &lt;em&gt;Atlantic Monthly&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;"Cline's experiences have not mellowed him. Here, as in all his novels, . . . he hates everybody, regardless of race, creed or color. If anyone is singled out, it is his publishers, whose limousines, he says, grow even longer, while their authors, in rags, cling behind like pitiful hitchhikers. . . . the translation is a masterpiece." -- &lt;em&gt;New York Times Book Review&lt;/em&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Dalkey Archive Pr</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781564781505</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-07T04:05:29.993000+00:00" name="calibre:timestamp"/>
+        <meta content="Castle to Castle (French Literature)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

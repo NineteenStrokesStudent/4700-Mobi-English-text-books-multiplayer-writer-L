@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57cbfcc1-ec46-481a-a223-46afac6ef69d</dc:identifier>
+        <dc:title>A Gate at the Stairs</dc:title>
+        <dc:creator opf:file-as="Moore, Lorrie" opf:role="aut">Lorrie Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In her best-selling story collection, Birds of America (“[it] will stand by itself as one of our funniest, most telling anatomies of human love and vulnerability” —James McManus, front page of The New York Times Book Review), Lorrie Moore wrote about the disconnect between men and women, about the precariousness of women on the edge, and about loneliness and loss.Now, in her dazzling new novel—her first in more than a decade—Moore turns her eye on the anxiety and disconnection of post-9/11 America, on the insidiousness of racism, the blind-sidedness of war, and the recklessness thrust on others in the name of love.As the United States begins gearing up for war in the Middle East, twenty-year-old Tassie Keltjin, the Midwestern daughter of a gentleman hill farmer—his “Keltjin potatoes” are justifiably famous—has come to a university town as a college student, her brain on fire with Chaucer, Sylvia Plath, Simone de Beauvoir.Between semesters, she takes a job as a part-time nanny.The family she works for seems both mysterious and glamorous to her, and although Tassie had once found children boring, she comes to care for, and to protect, their newly adopted little girl as her own.As the year unfolds and she is drawn deeper into each of these lives, her own life back home becomes ever more alien to her: her parents are frailer; her brother, aimless and lost in high school, contemplates joining the military. Tassie finds herself becoming more and more the stranger she felt herself to be, and as life and love unravel dramatically, even shockingly, she is forever changed.This long-awaited new novel by one of the most heralded writers of the past two decades is lyrical, funny, moving, and devastating; Lorrie Moore’s most ambitious book to date—textured, beguiling, and wise.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375708466</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T09:58:56.393000+00:00" name="calibre:timestamp"/>
+        <meta content="Gate at the Stairs, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

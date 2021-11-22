@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af88789f-dee0-4190-a672-fe67bc7d15d2</dc:identifier>
+        <dc:title>Breaking Night</dc:title>
+        <dc:creator opf:file-as="Murray, Liz" opf:role="aut">Liz Murray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-07T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+"*Breaking Night* reads more like an adventure story than an addiction-morality tale. It's a white-knuckle account of survival. . . . By age 6, Murray knew how to mainline drugs (though she never took them) and how to care for her strung-out parents. She showed uncanny maturity, even as a child, and later managed to avoid that malady of teenagers and memoir writers, self-pity. . . . Murray's stoicism has been hard-earned; it serves her well as a writer. *Breaking Night* itself is full of heart, without a sliver of ice, and deeply moving." (*The New York Times Book Review*)  
+
+"Liz Murray shows us that the human spirit has infinite ability to grow and  can never be limited by circumstance. *Breaking Night* is a beautifully  written, heartfelt memoir that will change the way you look your community, the  obstacles in your own life and the American Dream. An inspiration, a must read."  (Robert Redford)  
+
+"[Liz Murray] reminds us that the greatest acts of love and failure can  occur side by side; that isolation and loss can give way to accomplishment and  promise. She offers the awesome hope that, regardless of its past, a life can go  beyond endurance and reach for triumph. She leave us with the memory of a child who  clung to and refused to surrender the dignity of her soul." (Andrew Bridge, author  of the *New York Times* bestseller *Hope's Boy*)  
+
+"As much as it is a memoir, *Breaking Night* is a primer on how poverty and drug abuse create a heartbreaking underclass of children, one that goes largely unnoticed. By the truly uplifting ending, Liz Murray has shown us the worst, and the very best, of America." (Haven Kimmel, author of *A Girl Named Zippy* and *She Got Up Off the Couch*)  
+
+In the vein of *The Glass Castle, Breaking Night* is the stunning memoir of a young woman who at age fifteen was living on the streets, and who eventually made it into Harvard.   
+
+Liz Murray was born to loving but drug-addicted parents in the Bronx. In school she was taunted for her dirty clothing and lice-infested hair, eventually skipping so many classes that she was put into a girls' home. At age fifteen, Liz found herself on the streets when her family finally unraveled. She learned to scrape by, foraging for food and riding subways all night to have a warm place to sleep.   
+
+When Liz's mother died of AIDS, she decided to take control of her own destiny and go back to high school, often completing her assignments in the hallways and subway stations where she slept. Liz squeezed four years of high school into two, while homeless; won a *New York Times* scholarship; and made it into the Ivy League. *Breaking Night* is an unforgettable and beautifully written story of one young woman's indomitable spirit to survive and prevail, against all odds.</dc:description>
+        <dc:publisher>Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780786868919</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-08T20:24:20.589000+00:00" name="calibre:timestamp"/>
+        <meta content="Breaking Night" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

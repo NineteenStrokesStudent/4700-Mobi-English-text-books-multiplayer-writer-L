@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f41f2bfb-8d53-4bef-8e87-d55ea868b04a</dc:identifier>
+        <dc:title>Notebooks</dc:title>
+        <dc:creator opf:file-as="Vinci, Leonardo da &amp; Richter, Irma Anne &amp; Wells, Thereza" opf:role="aut">Leonardo da Vinci</dc:creator>
+        <dc:creator opf:file-as="Vinci, Leonardo da &amp; Richter, Irma Anne &amp; Wells, Thereza" opf:role="aut">Irma Anne Richter</dc:creator>
+        <dc:creator opf:file-as="Vinci, Leonardo da &amp; Richter, Irma Anne &amp; Wells, Thereza" opf:role="aut">Thereza Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Most of what we know about Leonardo da Vinci, we know because of his notebooks. Some 6,000 sheets of notes and drawings survive, perhaps one-fifth of what he actually produced. With an artist's eye and a scientist's curiosity, he recorded in these pages his observations on the movement ofwater and the formation of rocks, the nature of flight and optics, anatomy, architecture, sculpture, and painting. He jotted down fables, epigrams, and letters and developed his belief in the sublime unity of nature and man. Through his notebooks we can get an insight into Leonardo's thoughts, andhis approach to work and life. This selection, organized in seven themed sections, offers a fascinating and informative sample of his writings. Fully updated, this new edition includes some 70 line drawings and a Preface by Martin Kemp, one of the world's leading authorities on Leonardo, whoexplores the artist's genius and the contents and legacy of his manuscripts. The book also features new notes and a chronology of Leonardo's life.Irma A. Richter was an artist, translator, and Leonardo scholar.Thereza Wells is Head of Scientific Analysis at Universal Leonardo.Martin Kemp is University Professor of the History of Art at the University of Oxford (Trinity College) and the author of The Oxford History of Western Art and Leonardo.</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780199299027</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-29T05:58:23.771000+00:00" name="calibre:timestamp"/>
+        <meta content="Notebooks" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

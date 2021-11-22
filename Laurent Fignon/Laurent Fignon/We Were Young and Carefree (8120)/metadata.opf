@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ba8067c-5625-4f32-af02-dc23c4e3de35</dc:identifier>
+        <dc:title>We Were Young and Carefree</dc:title>
+        <dc:creator opf:file-as="Fignon, Laurent" opf:role="aut">Laurent Fignon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-10T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;'One of the most charismatic and flamboyant cyclists in recent history' - "Daily Telegraph". Laurent Fignon is one of the giants of modern cycling. Twice-winner of the Tour de France in the early eighties, Fignon became the star for a new generation. In 1989 he took part in one of the most fiercely-contested Tours of all time. Over the course of 3,285 kilometres he lost out to his American arch-rival, Greg LeMond, by an agonising eight seconds on the final Parisian time trial. Fignon does not mince his words. In this forthright and unflinching account the former champion spares neither friends nor opponents, nor even his own image. In doing so he gives cycling fans a tantalising glimpse of what really went on behind the scenes of this epic sport - the friendships, the rivalries, the betrayals, the scheming, the parties, the girls, and, of course, the performance-enhancing drugs. Laurent Fignon lived cycling at its peak. He enjoyed a truly exceptional career, winning over eighty titles from 1982 to 1993. The highs were matched by lows of serious injury, periods of self-doubt, and accusations of cheating. Fignon's story bestrides a golden age in cycling: a time before the scandals and the shadow of doping, a time when cyclists were afraid of nothing. &lt;/p&gt;</dc:description>
+        <dc:publisher>Random House UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780224083195</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Sports</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-19T18:52:09.977000+00:00" name="calibre:timestamp"/>
+        <meta content="We Were Young and Carefree" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;Sports&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

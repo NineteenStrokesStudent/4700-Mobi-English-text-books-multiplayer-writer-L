@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed1f31e4-ffa8-4f92-b722-9569f482ee3d</dc:identifier>
+        <dc:title>I'd Know You Anywhere</dc:title>
+        <dc:creator opf:file-as="Lippman, Laura" opf:role="aut">Laura Lippman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The acclaimed *New York Times* bestselling author returns with a new stand-alone novel—a powerful and utterly riveting tale that skillfully moves between past and present to explore the lasting effects of crime on a victim's life....*I'd Know You Anywhere*   
+
+ Eliza Benedict cherishes her peaceful, ordinary suburban life with her successful husband and children, thirteen-year-old Iso and eight-year-old Albie. But her tranquillity is shattered when she receives a letter from the last person she ever expects—or wants—to hear from: Walter Bowman. *There was your photo, in a magazine. Of course, you are older now. Still, I'd know you anywhere*.  
+
+ In the summer of 1985, when she was fifteen, Eliza was kidnapped by Walter and held hostage for almost six weeks. He had killed at least one girl and Eliza always suspected he had other victims as well. Now on death row in Virginia for the rape and murder of his final victim, Walter seems to be making a heartfelt act of contrition as his execution nears. Though Eliza wants nothing to do with him, she's never forgotten that Walter was most unpredictable when ignored. Desperate to shelter her children from this undisclosed trauma in her past, she cautiously makes contact with Walter. She's always wondered why Walter let her live, and perhaps now he'll tell her—and share the truth about his other victims.  
+
+ Yet as Walter presses her for more and deeper contact, it becomes clear that he is after something greater than forgiveness. He wants Eliza to remember what really happened that long-ago summer. He wants her to save his life. And Eliza, who has worked hard for her comfortable, cocooned life, will do anything to protect it—even if it means finally facing the events of that horrifying summer and the terrible truth she's kept buried inside.  
+
+ An edgy, utterly gripping tale of psychological manipulation that will leave readers racing to the final page, *I'd Know You Anywhere* is a virtuoso performance from acclaimed, award-winning author Laura Lippman that is sure to be her biggest hit yet.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061706554</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-27T06:35:59.758000+00:00" name="calibre:timestamp"/>
+        <meta content="I'd Know You Anywhere" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

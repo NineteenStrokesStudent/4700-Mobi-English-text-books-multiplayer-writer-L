@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50a49c49-0310-43a3-b2a3-bed6cfb80039</dc:identifier>
+        <dc:title>The Marvelous Land of Oz</dc:title>
+        <dc:creator opf:file-as="Baum, Lyman Frank" opf:role="aut">Lyman Frank Baum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The Marvelous Land of Oz, commonly shortened to The Land of Oz, published on July 5, 1904, is the second of L. Frank Baum's books set in the Land of Oz, and the sequel to The Wonderful Wizard of Oz. It is the only book in the series in which Dorothy Gale does not appear. This and the next 34 Oz books of the famous forty were illustrated by John R. Neill. *(Quote from wikipedia.org)*
+
+
+
+**About the Author**
+
+
+
+Lyman Frank Baum (1856 - 1919)
+
+Lyman Frank Baum (May 15, 1856 - May 6, 1919) was an American author, actor, and independent filmmaker best known as the creator, along with illustrator W. W. Denslow, of one of the most popular books in American children's literature, The Wonderful Wizard of Oz, better known today as simply The Wizard of Oz. He wrote thirteen sequels, nine other fantasy novels, and a plethora of other works (55 novels in total, 82 short stories, over 200 poems, an unknown number of scripts, and many miscellaneous writings), and made numerous attempts to bring his works to the stage and screen.
+
+
+
+Baum was born in Chittenango, New York, into a devout Methodist family of German (father's side) and Scots-Irish (mother's side) origin, the fifth of six children born to Cynthia Stanton and Benjamin Ward Baum, only three of whom survived into adulthood. He was named "Lyman" after his father's brother, but always disliked this name, and preferred to go by his middle name, "Frank". His mother, Cynthia Stanton, was a direct descendant of Thomas Stanton, one of the four Founders of what is now Stonington, Connecticut. *(Quote from wikipedia.org)*
+
+
+
+**About the Publisher** 
+
+
+
+Forgotten Books is a publisher of historical writings, such as: Philosophy, Classics, Science, Religion, History, Folklore and Mytholo</dc:description>
+        <dc:publisher>Forgotten Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780688054397</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="Oz : Famous Forty" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-08T20:46:30.072000+00:00" name="calibre:timestamp"/>
+        <meta content="Marvelous Land of Oz, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

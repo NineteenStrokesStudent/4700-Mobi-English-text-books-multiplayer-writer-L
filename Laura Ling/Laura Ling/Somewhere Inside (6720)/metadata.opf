@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ed03405-611c-4385-ad66-a86618567958</dc:identifier>
+        <dc:title>Somewhere Inside</dc:title>
+        <dc:creator opf:file-as="Ling, Laura &amp; Ling, Lisa" opf:role="aut">Laura Ling</dc:creator>
+        <dc:creator opf:file-as="Ling, Laura &amp; Ling, Lisa" opf:role="aut">Lisa Ling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T09:51:42.594000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+On March 17, 2009, Laura Ling and her colleague Euna Lee were working on a documentary about North Korean defectors who were fleeing the desperate conditions in their homeland. While filming on the Chinese–North Korean border, they were chased down by North Korean soldiers who violently apprehended them. Laura and Euna were charged with trespassing and "hostile acts," and imprisoned by Kim Jong Il's notoriously secretive Communist state. Kept totally apart, they endured months of interrogations and eventually a trial before North Korea's highest court. They were the first Americans ever to be sentenced to twelve years of hard labor in a prison camp in North Korea.  
+
+ When news of the arrest reached Laura's sister, journalist Lisa Ling, she immediately began a campaign to get her sister released, one that led her from the State Department to the higher echelons of the media world and eventually to the White House.  
+
+ *Somewhere Inside* reveals for the first time Laura's gripping account of what really happened on the river, her treatment at the hands of North Korean guards, and the deprivations and rounds of harrowing interrogations she endured. She speaks movingly about the emotional toll inflicted on her by her incarceration, including the measures she took to protect her sources and her fears that she might never see her family again.  
+
+ Lisa writes about her unrelenting efforts to secure Laura and Euna's release. Offering insights into the vast media campaign spearheaded on the women's behalf, Lisa also takes us deep into the drama involving people at the highest levels of government, including Secretary of State Hillary Clinton, former Vice President Al Gore, Senator John Kerry, and Governor Bill Richardson—intense discussions that entailed strategically balancing the agendas and good intentions of the various players. She also describes her role in the back-and-forth between North Korea's demands and the dramatic rescue by former President Bill Clinton.  
+
+ Though they were thousands of miles apart while Laura was in captivity, the Ling sisters' relationship became a way for the reclusive North Korean government to send messages to the United States government, which helped lead to Laura and Euna's eventual release.  
+
+ Told in the sisters' alternating voices, *Somewhere Inside* is a timely, inspiring, and page-turning tale of survival set against the canvas of international politics that goes beyond the headlines to reveal the impact on lives engulfed by forces beyond their control. But it is also a window into the unique bond these two sisters have always shared, a bond that sustained them throughout the most horrifying ordeal of their lives.</dc:description>
+        <dc:publisher>Center Point Pub</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781602858756</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T09:51:09.155000+00:00" name="calibre:timestamp"/>
+        <meta content="Somewhere Inside" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

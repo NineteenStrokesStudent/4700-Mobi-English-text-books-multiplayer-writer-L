@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ceb66d3-e153-42d0-b5e1-8f960fe55031</dc:identifier>
+        <dc:title>Masked</dc:title>
+        <dc:creator opf:file-as="Anders, Lou" opf:role="aut">Lou Anders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-20T09:52:01.675000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**WELCOME TO THE SECOND “GOLDEN AGE” OF SUPERHEROES AND HEROINES **
+
+Superheroes have come a long way since the “Man of Steel” was introduced in 1938. This brilliant new collection features original stories and novellas from some of today’s most exciting voices in comics, science fiction, and fantasy. Each marvelously inventive tale shows us just how far our classic crusaders have evolved—and how the greatest of heroes are, much like ourselves, all too human. 
+
+In “Call Her Savage,” **MARJORIE M. LIU **enters the dark heart of a fierce mythic heroine who is forced, by war, to live up to her own terrible legend. 
+
+In “A to Z in the Ultimate Big Company Superhero Universe (Villains Too),” **BILL WILLINGHAM **presents a fully-realized vision of a universe where epic feats and tragic flaws have transformed the human race. 
+
+In “Vacuum Lad,” **STEPHEN BAXTER **unveils the secret origins of the first true child of the space age—and disproves the theory that “nothing exists in a vacuum.” 
+
+In “Head Cases,” **PETER DAVID **and **KATHLEEN DAVID **blast through the blogosphere to expose the secret longings of a Lonely Superhero Wife. 
+
+In “The Non-Event,” **MIKE CAREY **removes the gag order on a super-thief named Lockjaw . . . and pries out a confession of life-altering events. 
+
+Also includes stories by Mike Baron • Mark Chadbourn • Paul Cornell • Daryl Gregory • Joseph Mallozzi • James Maxey • Ian McDonald • Chris Roberson • Gail Simone • Matthew Sturges . . . and an introduction by Lou Anders, “one of the brightest and best of the new generation of science fiction editors” (Jonathan Strahan, *The Best Science Fiction and Fantasy of the Year*).</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439168820</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T09:50:51.219000+00:00" name="calibre:timestamp"/>
+        <meta content="Masked" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

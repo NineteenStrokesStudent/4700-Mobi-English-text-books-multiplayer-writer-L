@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91d72943-36f4-4d13-b6f9-b8b0af30111d</dc:identifier>
+        <dc:title>The Male Brain</dc:title>
+        <dc:creator opf:file-as="Brizendine, Louann &amp; M.D." opf:role="aut">Louann Brizendine</dc:creator>
+        <dc:creator opf:file-as="Brizendine, Louann &amp; M.D." opf:role="aut">M.D.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T10:07:30.143000+00:00</dc:date>
+        <dc:description>SUMMARY:
+From the author of the groundbreaking New York Times bestseller The Female Brain, here is the eagerly awaited follow-up book that demystifies the puzzling male brain. Dr. Louann Brizendine, the founder of the first clinic in the country to study gender differences in brain, behavior, and hormones, turns her attention to the male brain, showing how, through every phase of life, the "male reality" is fundamentally different from the female one. Exploring the latest breakthroughs in male psychology and neurology with her trademark accessibility and candor, she reveals that the male brain:     *is a lean, mean, problem-solving machine. Faced with a personal problem, a man will use his analytical brain structures, not his emotional ones, to find a solution.      *thrives under competition, instinctively plays rough and is obsessed with rank and hierarchy.      *has an area for sexual pursuit that is 2.5 times larger than the female brain, consuming him with sexual fantasies about female body parts.     *experiences such a massive increase in testosterone at puberty that he perceive others' faces to be more aggressive.The Male Brain finally overturns the stereotypes. Impeccably researched and at the cutting edge of scientific knowledge, this is a book that every man, and especially every woman bedeviled by a man, will need to own.Praise for The Female Brain:"Louann Brizendine has done a great favor for every man who wants to understand the puzzling women in his life. A breezy and enlightening guide to women and a must-read for men."—Daniel Goleman, author of Emotional Intelligence        From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307589392</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T10:06:49.667000+00:00" name="calibre:timestamp"/>
+        <meta content="Male Brain, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57aef53e-8df9-4ab7-95cf-331e3b69c80b</dc:identifier>
+        <dc:title>The High King</dc:title>
+        <dc:creator opf:file-as="Alexander, Lloyd" opf:role="aut">Lloyd Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-16T06:58:40.035000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The Newbery-winning fantasy series now available in gorgeous new paperback editions!** 
+
+
+
+Since *The Book of Three* was first published in 1964, young readers have been enthralled by the adventures of Taran the Assistant Pig-Keeper and his quest to become a hero. Taran is joined by an engaging cast of characters that includes Eilonwy, the strong-willed and sharp-tongued princess; Fflewddur Fflam, the hyperbole-prone bard; the ever-faithful Gurgi; and the curmudgeonly Doliall of whom have become involved in an epic struggle between good and evil that shapes the fate of the legendary land of Prydain. Released over a period of five years, Lloyd Alexander’s beautifully written tales not only captured children’s imaginations but also garnered the highest critical praise. 
+
+
+
+*The Black Cauldron* was a Newbery Honor Book, and the final volume in the chronicles, *The High King*, crowned the series by winning the Newbery Medal for the most distinguished contribution to American literature for children.”
+
+
+
+Henry Holt is proud to present this classic series in a new, redesigned paperback format. The jackets feature stunning art by acclaimed fantasy artist David Wyatt, giving the books a fresh look for today’s generation of young fantasy lovers. The companion book of short stories, *The Foundling* is also available in paperback at this time. 
+
+
+
+In their more than thirty years in print, the Chronicles of Prydain have become the standard of excellence in fantasy literature for children.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780805080520</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="The Chronicles of Prydain" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-03T00:44:15.177000+00:00" name="calibre:timestamp"/>
+        <meta content="High King, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

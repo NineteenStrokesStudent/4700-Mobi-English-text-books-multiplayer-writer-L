@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddc9361c-c68e-4974-9851-c2b47bffdd3e</dc:identifier>
+        <dc:title>The road to Oz</dc:title>
+        <dc:creator opf:file-as="Baum, Lyman Frank" opf:role="aut">Lyman Frank Baum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-04-24T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Dorothy and Toto are off again on an exciting adventure down *The Road to Oz!*
+
+In order to help the lovable, ever-wandering Shaggy Man, Dorothy and Toto must journey through magical and mysterious lands. Soon the three are joined by a lost lad named Button-Bright and the beautiful young Polychromethe Rainbow's Daughter. With magic at work and danger about, these new friends must journey through cities of talking beasts, across the Deadly Desert into the Truth Pond, and through many other strange and incredible places before they can reach the Emerald City.
+
+Along the way, Dorothy and her companions encounter a whole new assortment of fantastic and funny characters--the crafty King Dox of Foxville, the magical donkey King Kik-a-bray, the terrible bigheaded Scoodlers, and Johnny Dooit (who can do anything)--along with old friends Jack Pumpkinhead, Tik-tok, Billina, and, of course, the Tin Woodman, the Cowardly Lion, the Scarecrow, and the wonderful Wizard himself.
+
+*The Road to Oz* is the fifth adventure in the magical Land of Oz. For the first time since the original 1909 edition, this stunning new facsimile edition illustrates Dorothy's fantastic adventures on different colors of paper reflecting where she and her friends are on the road to Oz. Featuring all of John R. Neill's 126 striking pen-and-ink drawings, this handsome deluxe edition is one to be treasured for years to come.Afterword by Peter Glassman. This deluxe facsimile of the fifth Oz adventure reunites Dorothy and her friends for Princess Ozma's glorious birthday party. For the first time since the original 1909 edition, the 126 masterful illustrations are printed on colored papers, exactly as the author intended. A Books of Wonder Classic.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780688099978</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="Oz : Famous Forty" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-08T20:46:05.931000+00:00" name="calibre:timestamp"/>
+        <meta content="road to Oz, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

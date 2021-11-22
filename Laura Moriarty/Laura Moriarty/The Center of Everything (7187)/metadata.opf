@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2680ef36-7db4-4d39-84ff-cc4e28baa4b8</dc:identifier>
+        <dc:title>The Center of Everything</dc:title>
+        <dc:creator opf:file-as="Moriarty, Laura" opf:role="aut">Laura Moriarty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-14T09:02:45.875000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Now in paperback, Laura Moriarty's breakthrough novel of growing up and growing wise.**    
+
+Critics and readers everywhere stood up and took notice when Laura Moriarty's captivating debut novel hit the stores in June '03. Janet Maslin of the *New York Times* praised *The Center of Everything* as "warm" and "beguiling." *USA Today* compared the scrappy yet tenderhearted Evelyn Bucknow to Scout Finch in *To Kill a Mockingbird*. It garnered extensive national attention; from *Entertainment Weekly* to the *Boston Globe* and the *San Francisco Chronicle*, the press raved about the wisdom and poignancy of Moriarty's writing. The Book-of-the-Month Club snatched it up as a Main Selection, as did the Literary Guild. It was a *USA Today* Summer Reading Pick, a BookSense Top 10 Pick, and a BN.com book club feature title. And still, months after *The Center of Everything's* original publication date, reviews and features of the book continue to run nationwide.    
+
+With a reading group guide bound into the book and a stellar hardcover publication behind it, the paperback edition of *The Center of Everything* is poised to explode onto the scene again, and Evelyn Bucknow is ready to steal more hearts than ever.</dc:description>
+        <dc:publisher>Hyperion (2004年7月14日)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780786888450</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-05T08:59:39.696000+00:00" name="calibre:timestamp"/>
+        <meta content="Center of Everything, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

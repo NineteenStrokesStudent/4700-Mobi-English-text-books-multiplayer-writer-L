@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">974aaf2a-c0b1-439e-8550-bd158cb38bf3</dc:identifier>
+        <dc:title>Snow Flower and the Secret Fan</dc:title>
+        <dc:creator opf:file-as="See, Lisa" opf:role="aut">Lisa See</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-26T06:12:17.206000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Lily is haunted by memories–of who she once was, and of a person, long gone, who defined her existence. She has nothing but time now, as she recounts the tale of Snow Flower, and asks the gods for forgiveness.In nineteenth-century China, when wives and daughters were foot-bound and lived in almost total seclusion, the women in one remote Hunan county developed their own secret code for communication: nu shu (“women’s writing”). Some girls were paired with laotongs, “old sames,” in emotional matches that lasted throughout their lives. They painted letters on fans, embroidered messages on handkerchiefs, and composed stories, thereby reaching out of their isolation to share their hopes, dreams, and accomplishments.With the arrival of a silk fan on which Snow Flower has composed for Lily a poem of introduction in nu shu, their friendship is sealed and they become “old sames” at the tender age of seven. As the years pass, through famine and rebellion, they reflect upon their arranged marriages, loneliness, and the joys and tragedies of motherhood. The two find solace, developing a bond that keeps their spirits alive. But when a misunderstanding arises, their lifelong friendship suddenly threatens to tear apart.Snow Flower and the Secret Fan is a brilliantly realistic journey back to an era of Chinese history that is as deeply moving as it is sorrowful. With the period detail and deep resonance of Memoirs of a Geisha, this lyrical and emotionally charged novel delves into one of the most mysterious of human relationships: female friendship.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780812980356</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T06:06:50.927000+00:00" name="calibre:timestamp"/>
+        <meta content="Snow Flower and the Secret Fan" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

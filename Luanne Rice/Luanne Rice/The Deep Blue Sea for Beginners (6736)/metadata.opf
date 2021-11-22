@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b80c6018-56f5-44f4-8ff4-9069f43ac1c5</dc:identifier>
+        <dc:title>The Deep Blue Sea for Beginners</dc:title>
+        <dc:creator opf:file-as="Rice, Luanne" opf:role="aut">Luanne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-04T10:18:26.580000+00:00</dc:date>
+        <dc:description>SUMMARY:
+A legendary island steeped in the mystery and wisdom of centuries... A runaway heiress learning to trust life, and love... A mother and daughter, separated for years, searching for a way to face the future together... "New York Times" bestselling author Luanne Rice tells a powerful story of love, family, and friendship through the lives of two women who reunite at a place where dreams begin--and where they may be fulfilled at last.... Years ago, Lyra Davis left behind a world of wealth and privilege and the people she loved most in the world, unable to reconcile the expectations of her celebrated family with the longings of her own wild heart. Now she lives quietly among a community of expatriates on the isle of Capri, slowly, carefully learning to live fully for the first time, flourishing in the friendship of a singular man who recognizes in her a kindred spirit. Granddaughter of the reigning doyenne of Newport, Rhode Island, wise beyond her sixteen years, Pell Davis is poised to take her place at the pinnacle of society. Yet she and her young sister still long for the mother who ran away from them when they were children so that they could be raised by the father they adored. Pell knows that Lyra felt she loved them best by leaving. But with her father now dead and her sister veering dangerously into fantasy, she will travel across an ocean to find the mother she remembers and the deeper truths they all need so desperately.... Lyrical, unforgettable, Luanne Rice's new novel unfolds against a background of timeless beauty, as an unlikely love affair reshapes the meaning of devotion and three generations of women resist the pull of memory and tradition to find a new way forward.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553805147</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T10:17:28.937000+00:00" name="calibre:timestamp"/>
+        <meta content="Deep Blue Sea for Beginners, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

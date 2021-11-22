@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0b13984-b2c7-4c97-add0-e734ee4d06e1</dc:identifier>
+        <dc:title>The Burglar Who Liked to Quote Kipling</dc:title>
+        <dc:creator opf:file-as="Block, Lawrence" opf:role="aut">Lawrence Block</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-10T14:12:05.676000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Those who long for another new exploit of the immortal Bernie Rhodenbarr, Greenwich Village bookseller by profession and burglar by avocation, should be warned that their wait must be extended. For this is a reissue, after 17 years, of what was originally the third in the series. It's therefore likely to be a new pleasure to Rhodenbarr fans won over by his recent rebirth (The Burglar Who Thought He Was Bogart) and to fans of Block's Matt Scudder novels. In it, Bernie has just opened Barnegat Books, has just got to know his deeply endearing friend, the lesbian dog groomer Carolyn, and is pressed into service to steal a rare book, allegedly a lost anti-Semitic work of Rudyard Kipling. As usual, he finds himself saddled with a dead body and a maze of twisted motives. And also as usual, Block's stylish narrative flow, humor and pitch-perfect feeling for New York life make getting to the end much more fun than the ultimate solution of the mystery. Until then, it's unalloyed pleasure?and, yes, we're ready for another new one. &lt;br /&gt;
+Copyright 1996 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;Block seems to relish the chance to write about the other side of the law when he's not detailing the straight-and-narrow exploits of investigator Matthew Scudder (e.g., A Long Line of Dead Men, Morrow, 1994). Here, the literature-loving burglar Bernie Rhodenbarr (e.g., The Burglar Who Thought He Was Bogart, Dutton, 1995) is framed for murder after pilfering a Kipling manuscript.&lt;br /&gt;
+Copyright 1996 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060731250</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Bernie Rhodenbarr" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-20T14:04:25.901000+00:00" name="calibre:timestamp"/>
+        <meta content="Burglar Who Liked to Quote Kipling, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

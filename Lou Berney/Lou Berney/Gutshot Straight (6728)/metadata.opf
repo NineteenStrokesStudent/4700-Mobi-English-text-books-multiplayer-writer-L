@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61adc49e-215e-49f4-a897-76ded527d4f4</dc:identifier>
+        <dc:title>Gutshot Straight</dc:title>
+        <dc:creator opf:file-as="Berney, Lou" opf:role="aut">Lou Berney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+A crime caper in the tradition of Elmore Leonard and Carl Hiaasen, this fast and funny debut is the story of "Shake" Bouchon, fresh out of prison and ready for life on the straight and narrow—well, maybe after *one* last job. . . .   
+
+ When Charles "Shake" Bouchon, professional wheel man, walks out of prison after a three-year stretch for grand theft auto, he's got only two problems: he's too nice a guy for the life he's led and not nice enough for any other.  
+
+ So he says yes when he's asked to run a simple errand for his former boss and lover, Alexandra Ilandryan, the formidable *pakhan* of the Armenian mob in Los Angeles. All Shake has to do is deliver a package to Las Vegas and pick up a briefcase.  
+
+ Only the package turns out to be a wholesome young housewife named Gina whose husband has run afoul of Dick Moby, aka "The Whale," an unpleasant four-hundred-pound Vegas strip-club owner. Shake hates to think what's going to happen to Gina when he delivers her to The Whale, so in a move that's as noble as it is boneheaded, he decides to set her free.  
+
+ Now Shake and Gina are on the run to Panama, hoping to unload the very valuable—and highly unusual—contents of The Whale's briefcase. Shake could end up a rich man, but first he'll have to outmaneuver two angry crime bosses, a murderous Armenian thug plagued by erectile superfunction, a former pro football player who blames Shake for his romantic woes, and a billionaire swindler with a flair for the theatrical. Not to mention, and not the least, Shake will need to survive his own heart, since he's going to discover that wholesome housewife Gina is even more intriguing, and a lot more complicated, than he ever imagined.  
+
+ Full of blindsided double-crosses and hard shots to the head, *Gutshot Straight* is a tale of love, luck, and larceny against the odds.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061766046</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T10:06:46.698000+00:00" name="calibre:timestamp"/>
+        <meta content="Gutshot Straight" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

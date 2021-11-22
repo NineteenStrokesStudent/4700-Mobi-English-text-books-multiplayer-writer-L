@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">092c92b7-d926-41b7-9f48-3e93a9f13295</dc:identifier>
+        <dc:title>Hungry Girl 1-2-3: The Easiest, Most Delicious, Guilt-Free Recipes on the Planet</dc:title>
+        <dc:creator opf:file-as="Lillien, Lisa" opf:role="aut">Lisa Lillien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-30T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+
+Are you HUNGRY? The number-one New York Times bestselling phenomenon is BACK---with even more yum-a-licious guilt-free recipes. This time, the EASIEST ones on the planet!
+
+Hungry Girl’s recipes aren't just delicious, they’re SUPER-SIMPLE, too. Hungry Girl 1-2-3 will help you make the world’s most delicious guilt-free appetizers, meals, snacks, desserts, etc., with practically no effort whatsoever! There are loads of crock-pot recipes, microwavable meals, HG’s famous “foil packs,” and more. Some are such a cinch, you won’t even have to turn on the oven or stove! Really.
+With more than 200 recipes and two-ingredient “couples” to choose from, you’ll never be hungry again! Get ready to chew on:
+
+Crazy Pineapple Salmon Teriyaki (347 calories)
+Mom-Style Creamy Chicken ’n Veggies (307 calories)
+Queen-of-the-Castle Sliders (254 calories)
+Caramel Swirl Cream Puffs (121 calories)
+Corndog Millionaire Muffins (160 calories)
+Chili Cheese Dog Nachos (218 calories)
+Turkey &amp; Veggie Meatloaf Minis (142 calories)
+Planet Hungrywood Sweet &amp; Cap’n Crunchy Chicken (234 calories)
+Shrimp &amp; Grits . . . for Hungry Chicks! (380 calories)
+Cannoli-Stuffed French Toast Nuggets (228 calories)</dc:description>
+        <dc:publisher>St. Martin's Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312556181</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="Hungry Girl" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-03T03:34:52.811000+00:00" name="calibre:timestamp"/>
+        <meta content="Hungry Girl 1-2-3: The Easiest, Most Delicious, Guilt-Free Recipes on the Planet" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

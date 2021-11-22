@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c71ea2aa-ec85-4830-9079-a99581b76d0b</dc:identifier>
+        <dc:title>Perchance to Dream: Theatre Illuminata #2</dc:title>
+        <dc:creator opf:file-as="Mantchev, Lisa" opf:role="aut">Lisa Mantchev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-25T06:39:21.771000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From School Library Journal&lt;/h3&gt;
+&lt;p&gt;Grade 8 Up—Beatrice Shakespeare Smith, Mistress of Revels, takes her show on the road in this rousing sequel to &lt;em&gt;Eyes Like Stars&lt;/em&gt; (Feiwel &amp;amp; Friends, 2009). Abandoning the enchanted Théâtre Illuminata to rescue her beloved pirate Nate from watery doom in the lair of Sedna the Sea Goddess, the 17-year-old embarks on the journey accompanied by four feisty fairies and seductive Ariel, air spirit from &lt;em&gt;The Tempest&lt;/em&gt; and Nate's rival for Bertie's heart. By turns perilous and comedic, the tale rolls along at breakneck speed as the troupe encounters danger and delight, negotiating predicaments with magic and wit. The fairies' constant clamor for pie adds hilarity as Bertie explores the extent of her magical powers, untangles her origins, and meets her father, the brooding bird-man Scrimshander. Mantchev's highly imaginative prose bursts with lush imagery and literary riffs, and the party's encounter with the Innamorati, a traveling circus inspired by Cirque du Soleil, enhances the book's surrealism. Although the lack of backstory may leave readers new to Bertie in the dust of confusion, fans of the first book will cry "Encore!" as the ending sets up the third in the series.—_Joyce Adams Burner, National Archives at Kansas City, MO_ &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;This sequel to Eyes like Stars (2009) returns to the fantastical Théâtre Illuminata, where 17-year-old Bertie Shakespeare Smith continues her wild, swashbuckling, genre-twisting adventures through magical, theatrical worlds. As in the previous volume, romance (more steamy suggestion than actual bodice-ripping) drives the girl-power plot, but the humorous allusions to famous literature, the breakneck banter among the magical cast, and, most of all, Bertie's astonishing ability to influence the course of actions with her written words will captivate readers. Fans of the first title will be equally enchanted and will hope for a third act from Bertie. Grades 9-12. --Gillian Engberg 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312380977</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="Théâtre Illuminata" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-12T06:37:57.864000+00:00" name="calibre:timestamp"/>
+        <meta content="Perchance to Dream: Theatre Illuminata #2" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
